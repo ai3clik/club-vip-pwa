@@ -1,0 +1,15 @@
+JSON
+{
+  "name": "club-vip-pwa",
+  "version": "1.0.0",
+  "description": "Sistema de fidelizacion PWA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.14.0",
+    "express": "^4.19.2",
+    "web-push": "^3.6.7"
+  }
+}
